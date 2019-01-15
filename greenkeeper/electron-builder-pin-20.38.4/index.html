@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>GNS3 Web UI</title>
+  <!-- It's important to have base here because of the script below //-->
+  <base href="/greenkeeper/electron-builder-pin-20.38.4/">
+  <script>
+    var userAgent = navigator.userAgent.toLowerCase();
+
+    //in case we're running in electron because we need it for resources
+    if (userAgent.indexOf(' electron/') > -1) {
+      var base = document.getElementsByTagName('base');
+      if(base.length > 0) {
+        base[0].href ='./';
+      }
+      else {
+        document.write('<base href="./" />');
+      }
+    }
+  </script>
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" type="image/x-icon" href="assets/favicon.ico">
+
+  <script type="application/javascript">
+    // Github Pages redirection
+    (function(){
+      var redirect = sessionStorage.redirect;
+      delete sessionStorage.redirect;
+      if (redirect && redirect != location.href) {
+        history.replaceState(null, null, redirect);
+      }
+    })();
+  </script>
+
+<link rel="stylesheet" href="styles.e9738d24e2b41dded7cb.css"></head>
+<body class="mat-app-background">
+  <app-root></app-root>
+<script type="text/javascript" src="runtime.ec2944dd8b20ec099bf3.js"></script><script type="text/javascript" src="polyfills.d7a92e0d247ea74f6813.js"></script><script type="text/javascript" src="main.5e0ae639883a0164f37a.js"></script></body>
+
+</html>

@@ -1228,6 +1228,10 @@ MIT
 
 @angular/material/checkbox
 
+@angular/material/sidenav
+
+@angular/material/list
+
 d3-dispatch
 BSD-3-Clause
 Copyright 2010-2016 Mike Bostock

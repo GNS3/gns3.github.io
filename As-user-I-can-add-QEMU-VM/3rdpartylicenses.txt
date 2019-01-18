@@ -1228,8 +1228,6 @@ MIT
 
 @angular/material/checkbox
 
-@angular/material/sidenav
-
 @angular/material/list
 
 d3-dispatch

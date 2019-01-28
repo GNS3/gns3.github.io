@@ -1181,7 +1181,12 @@ MIT
 
 @angular/material/icon
 
+@angular/material/menu
+
 @angular/material/progress-spinner
+
+ngx-electron
+MIT
 
 @angular/material/table
 
@@ -1600,8 +1605,6 @@ ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
-@angular/material/menu
-
 @angular/material/dialog
 
 @angular/material/snack-bar
@@ -1609,9 +1612,6 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 @angular/material/tooltip
 
 @angular/material/progress-bar
-
-ngx-electron
-MIT
 
 d3-array
 BSD-3-Clause

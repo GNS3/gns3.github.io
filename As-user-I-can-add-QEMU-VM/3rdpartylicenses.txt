@@ -1181,7 +1181,12 @@ MIT
 
 @angular/material/icon
 
+@angular/material/menu
+
 @angular/material/progress-spinner
+
+ngx-electron
+MIT
 
 @angular/material/table
 
@@ -1213,22 +1218,22 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
-@angular/material/core
-
-@angular/material/form-field
+@angular/material/sort
 
 @angular/forms
 MIT
-
-@angular/material/select
-
-@angular/material/sort
 
 @angular/material/expansion
 
 @angular/material/checkbox
 
+@angular/material/core
+
 @angular/material/list
+
+@angular/material/form-field
+
+@angular/material/select
 
 @angular/material/stepper
 
@@ -1606,8 +1611,6 @@ ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
-@angular/material/menu
-
 @angular/material/dialog
 
 @angular/material/snack-bar
@@ -1615,9 +1618,6 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 @angular/material/tooltip
 
 @angular/material/progress-bar
-
-ngx-electron
-MIT
 
 d3-array
 BSD-3-Clause

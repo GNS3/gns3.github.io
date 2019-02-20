@@ -1172,12 +1172,12 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
 
-@angular/material/toolbar
-
 @angular/animations
 MIT
 
 @angular/material/button
+
+@angular/material/toolbar
 
 @angular/material/icon
 
@@ -1218,20 +1218,26 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
-@angular/material/core
-
-@angular/material/form-field
+@angular/material/sort
 
 @angular/forms
 MIT
 
-@angular/material/select
-
-@angular/material/sort
-
 @angular/material/expansion
 
 @angular/material/checkbox
+
+@angular/material/core
+
+@angular/material/list
+
+@angular/material/form-field
+
+@angular/material/select
+
+@angular/material/stepper
+
+@angular/material/radio
 
 d3-dispatch
 BSD-3-Clause
